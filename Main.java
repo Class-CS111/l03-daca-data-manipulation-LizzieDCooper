@@ -58,7 +58,7 @@ public class Main
 		System.out.println("Julian Day Number for today's date, " +  monthToday + "/" + dayToday+ "/" + yearToday + ", is " + calcJDNToday);
 		System.out.println();
 		System.out.println("Julian Day Number for birthday, " + monthBirth + "/" + dayBirth+ "/" + yearBirth + ", is " + calcJDNBirth);
-		System.out.println();
+		System.out.println(); 
 		System.out.println("The difference in days is " + dayDifference + ", which makes you approximately " + approxDifference + " years old!");
   }
 }
